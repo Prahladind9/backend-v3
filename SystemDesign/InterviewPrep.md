@@ -19,3 +19,4 @@ Problem statement
 		- Should the design minimize the cost of maintenance?
 
 Youtube views example
+Count views

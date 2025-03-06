@@ -22,4 +22,5 @@ Youtube views example
 Count views
 Analysis on count function
 
-
+Design patterns 
+load balancers

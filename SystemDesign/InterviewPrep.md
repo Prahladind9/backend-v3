@@ -25,3 +25,4 @@ Analysis on count function
 Design patterns 
 load balancers
 partition
+cap theorm

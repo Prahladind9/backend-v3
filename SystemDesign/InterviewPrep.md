@@ -27,3 +27,4 @@ load balancers
 partition
 cap theorm
 circuit breaker
+faukt tolerance

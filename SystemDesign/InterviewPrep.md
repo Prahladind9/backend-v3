@@ -25,6 +25,6 @@ Analysis on count function
 Design patterns 
 load balancers
 partition
-cap theorm
+cap theorm - consitenct availablity parition tolerance
 circuit breaker
 faukt tolerance

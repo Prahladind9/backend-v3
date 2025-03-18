@@ -27,4 +27,4 @@ load balancers
 partition
 cap theorm - consitenct availablity parition tolerance
 circuit breaker
-faukt tolerance
+fault tolerance

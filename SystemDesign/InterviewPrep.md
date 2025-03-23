@@ -28,3 +28,4 @@ partition
 cap theorm - consitenct availablity parition tolerance
 circuit breaker
 fault tolerance
+

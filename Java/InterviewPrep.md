@@ -20,4 +20,6 @@ Java SE 21 Developer (Exam 1Z0-830):
 - Using Java I/O API
 - Implementing Localization
 
+Hands on expe
+
 Spring Boot

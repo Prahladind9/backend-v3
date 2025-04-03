@@ -21,3 +21,8 @@ https://education.oracle.com/java-se-21-developer-professional/pexam_1Z0-830
 	- Continuations
 
 ## Spring Boot
+
+### Managing Concurrent Code Execution
+- Concurrency Problem
+	Begin suspend/resumed end
+	the runnable interface > functional interface

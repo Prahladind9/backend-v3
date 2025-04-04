@@ -26,3 +26,11 @@ https://education.oracle.com/java-se-21-developer-professional/pexam_1Z0-830
 - Concurrency Problem
 	Begin suspend/resumed end
 	the runnable interface > functional interface
+- Continuation is the datastructure which saves the state of the threads
+- Sleep is non blocking
+- A thread is an native thread, means they are create on operating system
+	- virtual thread is mounted on top native thread
+	- virtual threads 
+		- use for i/o operations
+		- not for compute intense jobs
+

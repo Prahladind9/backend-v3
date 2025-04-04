@@ -20,17 +20,17 @@ https://education.oracle.com/java-se-21-developer-professional/pexam_1Z0-830
 	- Tip & tail release modelling for dependency libraries
 	- Continuations
 
-## Spring Boot
-
 ### Managing Concurrent Code Execution
 - Concurrency Problem
 	Begin suspend/resumed end
 	the runnable interface > functional interface
 - Continuation is the datastructure which saves the state of the threads
 - Sleep is non blocking
-- A thread is an native thread, means they are create on operating system
+- A thread is an native/platform thread, created on operating system
 	- virtual thread is mounted on top native thread
 	- virtual threads 
 		- use for i/o operations
-		- not for compute intense jobs
+		- not for compute/cpu intense jobs
 
+## what does this mean p80,90
+## Spring Boot

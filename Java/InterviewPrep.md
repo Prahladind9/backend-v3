@@ -11,6 +11,9 @@ https://education.oracle.com/java-se-21-developer-professional/pexam_1Z0-830
 	- Using Java I/O API
 	- Implementing Localization
 
+
+- Working with Arrays and Collections	
+
 ## New Features
 	- Project Loom; enhance concurrent programming via lighweight concurrency
 	- Project Panama; interconnecting JVM with native code

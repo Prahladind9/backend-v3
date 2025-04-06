@@ -12,7 +12,11 @@ https://education.oracle.com/java-se-21-developer-professional/pexam_1Z0-830
 	- Implementing Localization
 
 
-- Working with Arrays and Collections	
+- Handling Exceptions
+	- Within your control
+	- Outside your control
+	- try catch finally or try with resources
+- Working with Arrays and Collections
 
 ## New Features
 	- Project Loom; enhance concurrent programming via lighweight concurrency

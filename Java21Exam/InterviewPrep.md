@@ -22,7 +22,9 @@ https://education.oracle.com/java-se-21-developer-professional/pexam_1Z0-830
   	- Lambda experssions
 		- An anonymous function
 		- May take prarameters and return a value
-		- Treated like data: it can be passed to a method or stores in a variable 
+		- Treated like data: it can be passed to a method or stores in a variable
+		- type inferances
+		- variable used in lambda expression should be final or effectively final
 
 ## New Features
 	- Project Loom; enhance concurrent programming via lighweight concurrency

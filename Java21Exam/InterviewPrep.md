@@ -20,11 +20,36 @@ https://education.oracle.com/java-se-21-developer-professional/pexam_1Z0-830
 	- 
 #### Working with Streams and Lambda expressions
   	- Lambda experssions
-		- An anonymous function
-		- May take prarameters and return a value
-		- Treated like data: it can be passed to a method or stores in a variable
+		- an anonymous function
+		- may take prarameters and return a value
+		- treated like data: it can be passed to a method or stores in a variable
 		- type inferances
 		- variable used in lambda expression should be final or effectively final
+		- functional initerface; @FunctionalInterface 
+			- an interface with exactly one abstract method
+		- lambda expressions implements a functional interface
+			- the parameters and return type of the LE must match the 
+			   abstract method of the functional interface
+		- java.util.function
+			- interface Function<T,R> 	takes T returns R
+			- consumer	Consumer<T>		only takes T 
+			- supplier	Suppluer<R>		only returns R
+			- predicate Predicate<T>	takes T returns boolean
+			- UnaryOperator<T>			takes T returns T
+
+			- BiFunction<T,	U, R>		takes type T,U returns type R
+			- BiPredicate<T, U>			takes type T,U returns boolean
+			- BinaryOperator<T>			takes type T,T returns type T
+
+			- for efficiency, there are 
+				- IntFunction<T> 		takes int returns R
+				- IntConsumer	  		only takes int	
+				- IntSupplier			only returns type int
+				- IntPredicate			takes int returns boolean
+			- Runnable 					takes nothing returns nothing
+			- Comparator<T>				takes type T,T returns int
+				
+		
 
 ## New Features
 	- Project Loom; enhance concurrent programming via lighweight concurrency

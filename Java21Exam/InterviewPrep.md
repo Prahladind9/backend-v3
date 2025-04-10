@@ -49,7 +49,11 @@ https://education.oracle.com/java-se-21-developer-professional/pexam_1Z0-830
 			- Runnable 					takes nothing returns nothing
 			- Comparator<T>				takes type T,T returns int
 
-	- method references implements a functional interface
+	- Method references implements a functional interface
+	- Streams
+		- A squenece of elements on which you can perform operations
+		- Operations: filtering, transforming, sorting, collecting, searching
+					  grouping, partitioning etc.
 				
 		
 

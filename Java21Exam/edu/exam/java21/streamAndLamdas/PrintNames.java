@@ -29,5 +29,8 @@ public class PrintNames {
         log.info("Consumer type variable");
         Consumer<String> print = name -> log.info(name);
         names.forEach(print);
+
+        //method references
+        names.forEach(System.out::println);
     }
 }

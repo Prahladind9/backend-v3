@@ -48,6 +48,8 @@ https://education.oracle.com/java-se-21-developer-professional/pexam_1Z0-830
 				- IntPredicate			takes int returns boolean
 			- Runnable 					takes nothing returns nothing
 			- Comparator<T>				takes type T,T returns int
+
+	- method references implements a functional interface
 				
 		
 

@@ -9,7 +9,8 @@ public class FlightsFomLondon {
 
         flights.stream()
                 .filter(flight -> flight.origin().equals("London"))
-                .forEach(flight -> System.out.println(flight));
+                .map(flight -> String.format("%s from London to %s", flight.airline().code(), flight.destination()))
+                .forEach(System.out::println);
 
     }
 }

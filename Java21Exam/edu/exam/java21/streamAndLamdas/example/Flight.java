@@ -7,5 +7,8 @@ public record Flight(int number, Airline airline, String origin, String destinat
                      ZonedDateTime departureTime, ZonedDateTime arrivalTime, long distance, List<Fare> fares)
 {
 
+    public boolean isFromTo(String origin, String destination){
+        return origin.equals(this.origin) && destination.equals(this.destination);
+    }
 
 }

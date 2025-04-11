@@ -65,6 +65,10 @@ https://education.oracle.com/java-se-21-developer-professional/pexam_1Z0-830
 		- patterns to create an stream
 			- from a collection, array, text, regular expression, string
 		- methods; map/filter/terminal
+		- one-to-many transformation
+			- flatMap; takes stream gives stream
+			- mapMulti; same as flatMap in different style
+		- function should not have side effects
 		
 
 ## New Features

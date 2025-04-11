@@ -54,7 +54,17 @@ https://education.oracle.com/java-se-21-developer-professional/pexam_1Z0-830
 		- A squenece of elements on which you can perform operations
 		- Operations: filtering, transforming, sorting, collecting, searching
 					  grouping, partitioning etc.
-				
+		- Does one thing at a time
+		- Stream object
+			- doesn't carry any data, only processes
+				- build pipeline: derive an stream from data
+				- intermediate; filtering, transforming, sorting ... 
+				- terminary; collecting, checking, counting ..
+			- not allowed to process the same stream twice
+			- is lazy evaluation (i.e., only when terminary are there does execution of pipeline happens)
+		- patterns to create an stream
+			- from a collection, array, text, regular expression, string
+		- methods; map/filter/terminal
 		
 
 ## New Features

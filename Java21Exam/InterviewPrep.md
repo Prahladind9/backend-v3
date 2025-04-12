@@ -69,6 +69,9 @@ https://education.oracle.com/java-se-21-developer-professional/pexam_1Z0-830
 			- flatMap; takes stream gives stream
 			- mapMulti; same as flatMap in different style
 		- function should not have side effects
+		- findFirst(), groupingBy(), partiotingBy()
+		- parallel vs sequential stream; note for overhead associated & make sure no side effects
+			- groupingBy(),
 		
 
 ## New Features

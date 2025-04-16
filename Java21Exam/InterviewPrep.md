@@ -11,6 +11,15 @@ https://education.oracle.com/java-se-21-developer-professional/pexam_1Z0-830
 	- Using Java I/O API
 	- Implementing Localization
 
+#### Controlling Program Flow
+	- Basic conditional logic
+		- if-else, ternary expressions, switch statements
+	- Switch expressions
+	- Patterns matching
+	- Looping
+	- Advanced control flow
+
+#### Using Object-Oriented Concepts in Java
 
 #### Handling Exceptions
 	- Within your control

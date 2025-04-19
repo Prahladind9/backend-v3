@@ -15,6 +15,9 @@ https://education.oracle.com/java-se-21-developer-professional/pexam_1Z0-830
 	- Basic conditional logic
 		- if-else, ternary expressions, switch statements
 	- Switch expressions
+		- non final local variable is not allowed; 
+			even if its method param or an method reference too
+		- switch statement vs switch expression (default can be optional)
 	- Patterns matching
 	- Looping
 	- Advanced control flow
@@ -82,6 +85,15 @@ https://education.oracle.com/java-se-21-developer-professional/pexam_1Z0-830
 		- parallel vs sequential stream; note for overhead associated & make sure no side effects
 			- groupingBy(),
 		
+
+### Using Java I/O API
+	- Basic file handling mechanisms
+		- Create references to files and directories
+	- Read from and write to files
+		- InputStream, OutputStream
+		- FileReader, FileWriter ...
+	- Serialization (and deserialization)
+	- Console: handling user input
 
 ## New Features
 	- Project Loom; enhance concurrent programming via lighweight concurrency

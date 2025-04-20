@@ -18,6 +18,7 @@ https://education.oracle.com/java-se-21-developer-professional/pexam_1Z0-830
 		- non final local variable is not allowed; 
 			even if its method param or an method reference too
 		- switch statement vs switch expression (default can be optional)
+			- return, yield (returns value, exits switch not the method)
 	- Patterns matching
 	- Looping
 	- Advanced control flow

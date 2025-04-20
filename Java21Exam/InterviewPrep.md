@@ -20,6 +20,8 @@ https://education.oracle.com/java-se-21-developer-professional/pexam_1Z0-830
 		- switch statement vs switch expression (default can be optional)
 			- return, yield (returns value, exits switch not the method)
 	- Patterns matching
+		- order matters when implementations
+		- wrapper methods
 	- Looping
 	- Advanced control flow
 

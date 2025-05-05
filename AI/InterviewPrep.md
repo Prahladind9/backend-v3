@@ -34,6 +34,13 @@ Feature vector > Model > Output (prediction)
       - classification: predict discrete classes i.e., multiclass, binary 
       - regression: predict continuous values
 
+   - dataset; training, validation, testing > loss
+
+  - Preparing data
+  - K-nearest neighbors
+     - lets define distance and classify some points
+        - euclidean distance 
+
 - Unsupervised learning: uses unlabeled data to learn
 about patterns in data
 - Reinforcement learning: agent learning in interactive

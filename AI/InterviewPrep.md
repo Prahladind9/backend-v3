@@ -40,6 +40,7 @@ Feature vector > Model > Output (prediction)
   - K-nearest neighbors
      - lets define distance and classify some points
         - euclidean distance 
+  - Naive Bayes
 
 - Unsupervised learning: uses unlabeled data to learn
 about patterns in data

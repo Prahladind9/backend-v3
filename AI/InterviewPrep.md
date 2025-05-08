@@ -41,6 +41,9 @@ Feature vector > Model > Output (prediction)
      - lets define distance and classify some points
         - euclidean distance 
   - Naive Bayes
+                P(B/A) * P(A)
+    - P(A/B) =-----------------
+                  P(B)
 
 - Unsupervised learning: uses unlabeled data to learn
 about patterns in data

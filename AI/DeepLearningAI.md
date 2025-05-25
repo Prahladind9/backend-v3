@@ -11,3 +11,9 @@ capabilities through MCP
 MCP Clients maintain 1;1 connections with servers, inside the host application
 
 Tools, Resources, Prompt Templates
+
+MCP Transports
+- servers running locally: stdio
+- remote servers: HTTP+SSE, Streamable HTTP
+
+Chatbot example using standard library

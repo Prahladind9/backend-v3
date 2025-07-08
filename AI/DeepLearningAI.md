@@ -17,3 +17,4 @@ MCP Transports
 - remote servers: HTTP+SSE, Streamable HTTP
 
 Chatbot example using standard library
+FastMCP
